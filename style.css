@@ -1,0 +1,16 @@
+.libre-franklin{
+    font-family: 'Libre Franklin', sans-serif;
+}
+.ubuntu{
+    font-family: 'Ubuntu', sans-serif;
+}
+body{
+    background-color: #303030;
+}
+#result{
+    background-color: #454545;
+    border:none;
+}
+hr{
+    background-color: #dbdbdb;
+}
